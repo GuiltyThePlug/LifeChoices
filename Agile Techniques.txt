@@ -1,0 +1,63 @@
+Xtreme Programming (XP)
+
+KEY FEATURES
+*communication
+*simplicity
+*feedback
+*courage
+*respect
+
+KEY PEOPLE
+*The Customer/Product Owner
+*The Developer
+*The Tracker
+*The Coach/XP master/Guru
+
+ADVANTAGES
+*this methodology allows software development companies to save costs and time required for project realization.
+*Simplicity is one more advantage of Extreme Programming projects. The developers who prefer to use this methodology create extremely simple code that can be improved at any moment.\
+*The whole process in XP is visible and accountable. Developers commit what they will accomplish and show progress.
+*Constant feedback is also the strong side.It is necessary to listen and make any changes needed in time.
+
+DISADVANTAGE
+*is focused on the code rather than on design. That may be a problem because good design is extremely important for software applications. 
+*this methodology does not measure code quality assurance. It may cause defects in the initial code.
+*XP is not the best option if programmers are separated geographically.
+*There is a lot of pressure working with tight deadlines. If the developers have high stress levels completing tasks on time, they are more likely to make mistakes while coding.
+
+
+On a short-term planning, while being highly adaptive to changes of requirements, and consists of highly productive teams that produce quality software rapidly and effectively.
+
+
+SCRUM
+
+KEY FEATURES
+*commitment
+*courage
+*focus
+*openness
+*respect
+
+KEY PEOPLE
+*The Product Owner
+*The Scrum Master
+*The Development Team
+
+ADVANTAGES
+*helps team complete project deliverables quickly and efficiently
+*effective use of time and money
+*large projects are divided into easily manageable sprints
+*development are coded and tested during a sprint review
+
+DISADVANTAGES
+*often leads to scope creep, due to lack of a difinite end-date
+*chances of project faluire are high if individuals aren't very commited or cooperative
+*adopting scrum framework in large teams is challenging
+*can only be successful with experienced team members
+*quality is hard to impliment until the teams goes through an aggressive esting process
+
+is best suited in the case where a cross functional team is working in a product development setting where there is a non trivial amount of work that lends itself to being split into more than one 2 – 4 week iteration.
+
+
+Agile Software Development (ASD)
+
